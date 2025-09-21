@@ -80,19 +80,10 @@ This repository contains:
 - Deployment link to hosted app  
 
 ---
-
-## ⏳ Timeline
-This project must be completed within **5 days** from the date of assignment.
-
 ---
-
-## ⚠️ Important Notes
-- Ensure all code is **original** and written by you  
-- Plagiarism will result in disqualification  
-- External libraries/tools are allowed if they align with project requirements  
-- For clarifications, reach out **before the deadline**  
 
 ---
 
 ### 👨‍💻 Author
 Developed by **Avtar Singh**
+
