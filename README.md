@@ -77,7 +77,7 @@ The application has been deployed on **Vercel/Netlify/GitHub Pages**.
 This repository contains:
 - `README.md` (this file)  
 - Complete source code inside `/src`  
-- Deployment link to hosted app  
+- Deployment link to hosted app  https://assignment-dashboard-liard.vercel.app
 
 ---
 ---
@@ -86,4 +86,5 @@ This repository contains:
 
 ### 👨‍💻 Author
 Developed by **Avtar Singh**
+
 
