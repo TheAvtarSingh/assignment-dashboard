@@ -1,24 +1,98 @@
-Objective
-Your task is to implement the provided SaaS dashboard designs in React with pixel-perfect accuracy. You are expected to add meaningful motion and microinteractions to enhance the user experience.
 
-Design Files
-You will find the Figma design files in Dev Handoff Page. Ensure you review all the screens and design components thoroughly before starting.
+# SaaS Dashboard Implementation
 
-Technical Requirements
-Use React with modern JavaScript (ES6+), HTML5, and CSS3. You may use any UI library (e.g., Material-UI, Ant Design) but ensure the final output aligns with the provided designs.
-Follow best practices for code quality, including proper structuring, modularity, readability, and documentation.
-Ensure that the implementation works correctly across major browsers (Chrome, Firefox, Safari, Edge).
+## 📌 Objective
+The goal of this project is to implement the provided SaaS dashboard designs in **React** with **pixel-perfect accuracy**. The implementation includes meaningful **motion** and **microinteractions** to enhance the user experience.
 
-Submission Guidelines
-Create a public GitHub repository and commit your code there. The repository should include:
-A `README.md` file with clear instructions on how to set up and run the project locally.
-A section in the `README.md` describing any design decisions, challenges faced, and improvements made.
-Deploy your application on a platform like Vercel, Netlify, or GitHub Pages. Provide a link to the deployed version in your `README.md`.
+---
 
-Timeline
-You have 5 days from the date of assignment to complete and submit the project.
+## 🎨 Design Files
+The Figma design files can be found in the **Dev Handoff Page**. Please review all screens and design components thoroughly before starting.
 
-Important Notes
-Ensure your code is original and written by you. Plagiarism will lead to disqualification.
-Feel free to use external libraries or tools, but ensure they align with the project requirements.
-If you have any questions or need clarifications, reach out to us well before the submission deadline.
+---
+
+## ⚙️ Technical Requirements
+- **React** with modern JavaScript (ES6+), **HTML5**, and **CSS3**
+- You may use any UI library (**Material-UI, Ant Design, Tailwind**, etc.)  
+- Ensure the final output aligns exactly with the provided designs  
+- Follow best practices in:
+  - Code structuring  
+  - Modularity  
+  - Readability  
+  - Documentation  
+- Ensure cross-browser compatibility (**Chrome, Firefox, Safari, Edge**)
+
+---
+
+## 🚀 Setup & Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/theavtarsingh/assignment-dashboard.git
+   cd saas-dashboard
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+   ```bash
+   npm run start
+   ```
+
+4. Build for production:
+   ```bash
+   npm run build
+   ```
+
+---
+
+## 🌐 Deployment
+The application has been deployed on **Vercel/Netlify/GitHub Pages**.  
+
+---
+
+## 📝 Design Decisions, Challenges & Improvements
+
+### ✅ Design Decisions
+- Used **Tailwind CSS** for utility-first styling and responsiveness  
+- Integrated **Framer Motion** for animations and microinteractions  
+- Componentized reusable UI elements for consistency  
+
+### ⚠️ Challenges Faced
+- Achieving **pixel-perfect accuracy** with complex Figma layouts  
+- Handling **dark mode/light mode** styling variations  
+- Ensuring **cross-browser compatibility** for animations  
+
+### 💡 Improvements Made
+- Enhanced accessibility with proper ARIA attributes  
+- Added lazy loading for better performance  
+- Implemented responsive design for mobile and tablet views  
+
+---
+
+## 📂 Submission Guidelines
+This repository contains:
+- `README.md` (this file)  
+- Complete source code inside `/src`  
+- Deployment link to hosted app  
+
+---
+
+## ⏳ Timeline
+This project must be completed within **5 days** from the date of assignment.
+
+---
+
+## ⚠️ Important Notes
+- Ensure all code is **original** and written by you  
+- Plagiarism will result in disqualification  
+- External libraries/tools are allowed if they align with project requirements  
+- For clarifications, reach out **before the deadline**  
+
+---
+
+### 👨‍💻 Author
+Developed by **Avtar Singh**
